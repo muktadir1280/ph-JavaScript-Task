@@ -9,6 +9,7 @@ if (num1 > num2) {
 }
 console.log(result);
 
+
 //ternary method
 const num3 = 20;
 const num4 = 40;
